@@ -13,6 +13,12 @@
   GifShow – это сервис для поиска и просмотра гифок и стикеров, использующий Giphy API.
   
   SPA на React, Redux, React Router.
+  
+- [taxi-order-app](https://github.com/My420/taxi-order-app).
+
+  taxi-order-app - это страница заказа такси с формой и картой. Реализована с использованием Typescript.
+  
+  SPA на React, Redux, TypeScript.  
 
 - [TaskCalendar](https://github.com/My420/TaskCalendar).
 
